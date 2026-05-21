@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Pooja823
-- 👀 I’m interested in singing, coding, etc
-- 🌱 I’m currently learning Engeneering in KLE Technological university, Hubli.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/pooja-myagade-5919742a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hey there **coders, creators** and **curious minds!**
+- **I'm Pooja Myagade**
+- Welcome to my GitHub! Buckle up—we’re diving into the world of **code, creativity,** and **tech innovation!** 💻✨
+- 🚀 **About Me**
+- 🎓 **Education:**
+Currently pursuing 6th Semester of B.E. in Computer Science Engineering at **KLE Technological University, Hubballi**
+💡 **What I Do:**
+I enjoy building real-world tech projects, experimenting with code, and solving problems in the most creative way possible.
 
-<!---
-Pooja823/Pooja823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
